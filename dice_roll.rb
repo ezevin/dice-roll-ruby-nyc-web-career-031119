@@ -7,8 +7,4 @@ def roll()
   1 + rand(6)
 end
 
-def roll(num)
-  num = [1..6]
-  rand num
-end
-  
+def roll
